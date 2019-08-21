@@ -1,0 +1,22 @@
+{
+  "name": "tweety-js",
+  "version": "1.0.0",
+  "description": "Una aplicacion cool de Tweety",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keviar21/tweety-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keviar21/tweety-js/issues"
+  },
+  "homepage": "https://github.com/keviar21/tweety-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
