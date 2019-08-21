@@ -18,6 +18,7 @@
   "homepage": "https://github.com/keviar21/tweety-js#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^1.19.1"
+    "nodemon": "^1.19.1",
+    "nunjucks": "^3.2.0"
   }
 }
