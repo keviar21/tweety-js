@@ -3,7 +3,8 @@ const _ = require('lodash');
 var data = [];
 
 function add (name, content) {
-    data.push({ name: name, content: content });
+
+    data.push({ id: data.length, name: name, content: content });
   }
 function list () {
     return _.cloneDeep(data);
